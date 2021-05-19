@@ -1,4 +1,6 @@
 # file-sync
+You can watch `file_sync.py` directly. Other files are Inputs and Outputs of my sample.
+
 \*\*\*@\*\*\*:~/log# ls -R from
 ```
 from:
