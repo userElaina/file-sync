@@ -1,6 +1,5 @@
 # file-sync
-自用的文件同步。未经过充分测试，建议打开生成的shell脚本看一下。
-***@***:~/log# ls -R from
+\*\*\*@\*\*\*:~/log# ls -R from
 ```
 from:
 bigfile  exist  existe  nexist  nexiste  only_time.txt
@@ -18,7 +17,7 @@ from/nexist:
 
 from/nexiste:
 ```
-***@***:~/log# ls -R to
+\*\*\*@\*\*\*:~/log# ls -R to
 ```
 to:
 exist  existe  more.txt  only_time.txt
