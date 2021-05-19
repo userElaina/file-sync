@@ -27,4 +27,4 @@ edit.txt  same.txt
 
 to/existe:
 ```
-***@***:~/log#
+\*\*\*@\*\*\*:~/log#cat file_sync.sh
